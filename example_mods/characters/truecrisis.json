@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "crisis idle"
+		},
+		{
+			"offsets": [
+				-9,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "crisis left"
+		},
+		{
+			"offsets": [
+				0,
+				8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "crisis down"
+		},
+		{
+			"offsets": [
+				-6,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "crisis up"
+		},
+		{
+			"offsets": [
+				0,
+				27
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "crisis right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TrueCrisis",
+	"position": [
+		-510,
+		-160
+	],
+	"healthicon": "crisis",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
